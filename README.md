@@ -13,7 +13,7 @@ Intro-Git
     - e.g., `git pull origin main`
 - `git push origin main`: send code from branch `main` local computer to the remote `origin`
 
-## branches
+## Branches
 
 - `git branch <name>`: create a branch named <branch> where ever you are (`HEAD`)
 - `git switch <name>`: go to that branch
